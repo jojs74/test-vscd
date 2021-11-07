@@ -4,4 +4,4 @@ resultado=(a*b)
 print(('O resultado é:'), resultado)
 
 aluno = ('Josuel');
-print (aluno)
+print (('Nome do aluno')aluno)
